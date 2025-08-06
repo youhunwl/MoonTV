@@ -1,5 +1,12 @@
 {
   "cache_time": 7200,
+  "custom_category": [
+    {
+      "name": "豆瓣 Top250",
+      "type": "movie",
+      "query": "top250"
+    }
+  ]
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
