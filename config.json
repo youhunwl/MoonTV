@@ -6,7 +6,7 @@
       "type": "movie",
       "query": "top250"
     }
-  ]
+  ],
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
